@@ -13,7 +13,7 @@ Asciiartsy is a small little script I wrote to run VT100 animations in the backg
 
 - macOS or Linux (`pv` must be installed on macOS)
 
-- python
+- python3
 
 ### Installation
 
@@ -32,7 +32,7 @@ echo "export AA_SPEED=2000" >> ~/.zshrc
 Start the script by running:
 
 ```
-python start.py
+python3 start.py
 ```
 
 Simple as that!
