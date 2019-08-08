@@ -26,7 +26,7 @@ Example:
 echo "export AA_SPEED=2000" >> ~/.bash_rc
 
 # Zsh
-echo "export AA_SPEED=2000" >> ~/.bash_rc
+echo "export AA_SPEED=2000" >> ~/.zshrc
 ```
 
 Start the script by running:
